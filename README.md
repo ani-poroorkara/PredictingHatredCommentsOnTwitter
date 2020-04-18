@@ -49,6 +49,7 @@ import statistics
 1. Clone the repository 
 2. Install dependencies
 3. Run the sentimentAnalysis.py 
+4. Run predict.py to test results
 
 ### License
 [Apache License 2.0](https://github.com/ani-poroorkara/PredictingHatredCommentsOnTwitter/blob/master/LICENSE)
